@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">API Level Finder</string>
+    <string name="textBoxName">Enter Api Level</string>
+    <string name="buttonName">Search</string>
+</resources>

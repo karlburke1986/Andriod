@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Grade Calculator</string>
+    <string name="markInput">Insert Mark</string>
+    <string name="convertButton">Calculate Grade</string>
+</resources>
